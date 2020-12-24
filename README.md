@@ -1,5 +1,5 @@
 # Python-Kriging-Climate
-Use Kriging to interplation data of Climate with China and Taiwan Area , and also import the backward Trajectory.
+Interpolation the Climate of China and Taiwan by Kriging , and also import the backward Trajectory.
 
 
 Example1 : 
